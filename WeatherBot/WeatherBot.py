@@ -1,3 +1,4 @@
+#WeatherBot
 # -*- coding: cp1251 -*-
 import requests
 import datetime
